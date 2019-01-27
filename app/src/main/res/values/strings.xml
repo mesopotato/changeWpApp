@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Change wallpaper</string>
+    <string name="image_source_activity_title">"Select image resource"</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="source_name_from_external_storage">"External storage"</string>
+    <string name="source_name_from_google_Drive">"Google drive"</string>
+    
+    <string name="main_preference_category_general">"General settings"</string>
+    <string name="main_preference_change_wallpaper_interval">"Change wallpaper interval"</string>
+    <string name="main_preference_category_other">"Other"</string>
+    <string name="main_preference_version_code">"Version code"</string>
+    <string name="main_preference_version_name">"Version name"</string>
+    <string name="main_preference_wallpaper_resource_folder">"Wallpaper resource folder"</string>
+    <string name="folder_list_dialog_title">"Folder list"</string>
+
+    <string name="external_storage_activity_read_local_file_permission">"This app needs to access local files."</string>
+    <string name="set_wall_paper_permission">"This app needs to get set wallpaper permission!"</string>
+    <string name="permission_request_text">"Need permissions"</string>
+
+    <string name="cancel_confirm_dialog_default_title">"Warning"</string>
+    <string name="cancel_confirm_dialog_default_message">"Are you sure to delete it"</string>
+</resources>

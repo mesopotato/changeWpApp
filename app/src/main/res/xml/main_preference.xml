@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="CATEGORY_GENERAL_SETTINGS"
+        android:title="@string/main_preference_category_general">
+        <Preference
+            android:key="CHANGE_WALLPAPER_INTERVAL"
+            android:title="@string/main_preference_change_wallpaper_interval" />
+        <Preference
+            android:key="WALLPAPER_RESOURCE_FOLDER"
+            android:title="@string/main_preference_wallpaper_resource_folder" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/main_preference_category_other">
+        <Preference
+            android:key="VERSION_NAME"
+            android:title="@string/main_preference_version_name" />
+        <Preference
+            android:key="VERSION_CODE"
+            android:title="@string/main_preference_version_code" />
+    </PreferenceCategory>
+</PreferenceScreen>
